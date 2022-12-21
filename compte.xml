@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<compte>
+    <code>1</code>
+    <dateCreation>2022-12-21T21:22:07.274+01:00</dateCreation>
+    <solde>4500.0</solde>
+    <type>COURANT</type>
+</compte>
